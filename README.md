@@ -32,7 +32,7 @@ npm run preview  # or yarn preview
 ```
 
 ## Feel free to Make any suggestions
-  and make sure to follow me on IG.
-    [IG](instagram.com/jamjam_officiale)
+  and make sure to follow me on 
+    [IG](instagram.com/jamjam_officiale).
 
 
