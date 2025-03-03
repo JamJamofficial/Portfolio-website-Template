@@ -4,7 +4,7 @@
 Simple React Website template for people who need a quickly deployable Portfolio website made with react (I will be updating this frequently and adding minor changes as time progresses.)
 
 ## things to change
--env variables
+env variables
 ,Descriptions (about me etc)
 ,Links
 ,Logo
