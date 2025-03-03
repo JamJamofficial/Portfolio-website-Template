@@ -5,10 +5,10 @@ Simple React Website template for people who need a quickly deployable Portfolio
 
 ## things to change
 -env variables
--Descriptions (about me etc)
--Links
--Logo
--Name/Text etc
+,Descriptions (about me etc)
+,Links
+,Logo
+,Name/Text etc
 
 ## 🛠 Installation & Usage
 ### 1️⃣ Install Dependencies
